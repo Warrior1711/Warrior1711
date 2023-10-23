@@ -2,7 +2,7 @@
  💻 Im currently working on private blooket hacks,
  you can join by emailing me.
 
- 📫 How to reach me
+ 📫 How to reach me,
  Email me at maxborzyszkowski@gmail.com
 
 <!---
