@@ -1,4 +1,4 @@
- 👋 Hi, I’m @Warrior1711
+ 👋 Hi, I’m Warrior1711
  💻 Im currently working on private blooket hacks,
  you can join by emailing me.
 
