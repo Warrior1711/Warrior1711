@@ -1,7 +1,6 @@
  👋 Hi, I’m Warrior1711
  💻 Im currently working on Roblox studio Scripts/plugins.
- Check out the respo here 👇
-https://github.com/Warrior1711/Roblox-Studio-Scripts-and-Help.git
+ Check out the respo here-https://github.com/Warrior1711/Roblox-Studio-Scripts-and-Help.git
  📫 How to reach me,
  Email me at maxborzyszkowski@gmail.com
 
