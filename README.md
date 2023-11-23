@@ -1,6 +1,6 @@
  👋 Hi, I’m Warrior1711
- 💻 Im currently working on Roblox studio Scripts/plugins and Blooket hacks
- Check out theRoblox sripts respo here-https://github.com/Warrior1711/Roblox-Studio-Scripts-and-Help.git
+ 💻 Im currently working on Roblox studio Scripts/plugins and Blooket hacks.
+ Check out the Roblox sripts respo here-https://github.com/Warrior1711/Roblox-Studio-Scripts-and-Help.git
  To gain accses to The blooket hacks, simply follow me so I can add You to the respo (im not asking for follows, you can unfollow after i add you)
 How to Reach me 📧
 Email: maxborzyszkowski@gmail.com
