@@ -1,6 +1,6 @@
- 👋 Hi, I’m Warrior1711
- 💻 Im currently working on bl cheats
-⚡ learining Python,Lua and Java
+ 👋 Hi, I’m Realyby
+ 💻 Im currently working on a Pastebin Site!
+⚡ learining Python,Html.
 Email: maxborzyszkowski@gmail.com
 
 <!---
