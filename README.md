@@ -1,5 +1,6 @@
-Working on Moonshine OS
-Also working on some other things
+Minecraft CLE got leaked
+so Im making my own version
+expect some cool stuff
 
 <!---
 Warrior1711/Warrior1711 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
