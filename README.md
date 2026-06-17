@@ -1,6 +1,6 @@
-Minecraft CLE got leaked
-so Im making my own version
-expect some cool stuff
+making some things
+leaking some others...
+whats not to like?
 
 <!---
 Warrior1711/Warrior1711 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
